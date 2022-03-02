@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cp-player</string>
+    <string name="welcome">Welcome to CP Player</string>
+    <string name="welcome_description">A clone of VLC for learning purposes</string>
+    <string name="start">START</string>
+    <string name="permission_title">Permission</string>
+    <string name="permission_description">CP Player requires permission to access media on your device</string>
+    <string name="grant_permission">GRANT PERMISSION</string>
+    <string name="next">NEXT</string>
+    <string name="allow_storage_manager_title">Allow CP player access all files</string>
+    <string name="allow_storage_manager_description">%s\n\nGrant permission?</string>
+    <string name="allow_storage_manager_explanation">To get all the capabilities of VLC and the support of all types of media files, we strongly suggest you to grant this permission.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
