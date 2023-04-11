@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PlayerView">
+
+        <!--Color attributes-->
+        <attr name="play_color" format="color" />
+        <attr name="previous_color" format="color" />
+        <attr name="next_color" format="color" />
+        <attr name="shuffle_color" format="color" />
+        <attr name="repeat_color" format="color" />
+
+        <!--Size attributes-->
+
+        <attr name="play_size" format="enum">
+            <enum name="small" value="0" />
+            <enum name="medium" value="1" />
+            <enum name="large" value="2" />
+            <enum name="xLarge" value="3" />
+        </attr>
+
+        <attr name="previous_size" format="enum">
+            <enum name="small" value="0" />
+            <enum name="medium" value="1" />
+            <enum name="large" value="2" />
+            <enum name="xLarge" value="3" />
+        </attr>
+
+        <attr name="next_size" format="enum">
+            <enum name="small" value="0" />
+            <enum name="medium" value="1" />
+            <enum name="large" value="2" />
+            <enum name="xLarge" value="3" />
+        </attr>
+
+        <attr name="shuffle_size" format="enum">
+            <enum name="small" value="0" />
+            <enum name="medium" value="1" />
+            <enum name="large" value="2" />
+            <enum name="xLarge" value="3" />
+        </attr>
+
+        <attr name="repeat_size" format="enum">
+            <enum name="small" value="0" />
+            <enum name="medium" value="1" />
+            <enum name="large" value="2" />
+            <enum name="xLarge" value="3" />
+        </attr>
+
+
+    </declare-styleable>
+</resources>
